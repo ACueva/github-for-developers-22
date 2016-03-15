@@ -1,0 +1,3 @@
+- [ ] Name
+- [ ] Information about me from https://github.com/ACueva/github-for-developers-22/issues/3
+- [ ] request to add your bio
